@@ -22,6 +22,7 @@
   ],
   "dependencies": {
     "fort-pagelet": "git@github.com:FortifiElements/fort-pagelet.git",
-    "fort-theme": "git@github.com:FortifiElements/fort-theme.git"
+    "fort-theme": "git@github.com:FortifiElements/fort-theme.git",
+    "fort-loader": "git@github.com:FortifiElements/fort-loader.git"
   }
 }
