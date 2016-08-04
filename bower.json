@@ -21,5 +21,6 @@
     "tests"
   ],
   "dependencies": {
+    "fort-pagelet": "git@github.com:FortifiElements/fort-pagelet.git"
   }
 }
