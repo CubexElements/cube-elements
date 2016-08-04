@@ -1,0 +1,25 @@
+{
+  "name": "fort-elements",
+  "version": "0.1.0",
+  "homepage": "https://github.com/FortifiElements/fort-elements",
+  "authors": [],
+  "description": "The fort elements enable building full fortifi apps out of modular custom elements.",
+  "main": "fort-elements.html",
+  "moduleType": [],
+  "keywords": [
+    "web-components",
+    "polymer",
+    "fortifi",
+    "fort"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
