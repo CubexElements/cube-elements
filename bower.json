@@ -28,8 +28,9 @@
     "fort-loader": "git@github.com:FortifiElements/fort-loader.git",
     "fort-breadcrumb": "git@github.com:FortifiElements/fort-breadcrumb.git",
     "fort-icon": "git@github.com:FortifiElements/fort-icon.git",
-    "fort-list": "git@github.com:FortifiElements/fort-list.git",
     "fort-action": "git@github.com:FortifiElements/fort-action.git",
-    "fort-dropdown": "git@github.com:FortifiElements/fort-dropdown.git"
+    "fort-list": "git@github.com:FortifiElements/fort-list.git",
+    "fort-dropdown": "git@github.com:FortifiElements/fort-dropdown.git",
+    "fort-touch-enabled": "git@github.com:FortifiElements/fort-touch-enabled.git"
   }
 }
