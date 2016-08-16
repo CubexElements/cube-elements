@@ -26,6 +26,8 @@
     "fort-theme": "git@github.com:FortifiElements/fort-theme.git",
     "fort-animbg": "git@github.com:FortifiElements/fort-animbg.git",
     "fort-loader": "git@github.com:FortifiElements/fort-loader.git",
+    "fort-app": "git@github.com:FortifiElements/fort-app.git",
+    "fort-drawer": "git@github.com:FortifiElements/fort-drawer.git",
     "fort-breadcrumb": "git@github.com:FortifiElements/fort-breadcrumb.git",
     "fort-icon": "git@github.com:FortifiElements/fort-icon.git",
     "fort-action": "git@github.com:FortifiElements/fort-action.git",
