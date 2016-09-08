@@ -35,6 +35,7 @@
     "fort-dropdown": "git@github.com:FortifiElements/fort-dropdown.git",
     "fort-touch-enabled": "git@github.com:FortifiElements/fort-touch-enabled.git",
     "fort-websocket": "git@github.com:FortifiElements/fort-websocket.git",
-    "fort-indexeddb-mirror": "git@github.com:FortifiElements/fort-indexeddb-mirror.git"
+    "fort-indexeddb-mirror": "git@github.com:FortifiElements/fort-indexeddb-mirror.git",
+    "fort-preferences": "git@github.com:FortifiElements/fort-preferences.git"
   }
 }
