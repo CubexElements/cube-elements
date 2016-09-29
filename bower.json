@@ -37,6 +37,7 @@
     "fort-websocket": "git@github.com:FortifiElements/fort-websocket.git",
     "fort-indexeddb-mirror": "git@github.com:FortifiElements/fort-indexeddb-mirror.git",
     "fort-preferences": "git@github.com:FortifiElements/fort-preferences.git",
-    "fort-nudge": "git@github.com:FortifiElements/fort-nudge.git"
+    "fort-nudge": "git@github.com:FortifiElements/fort-nudge.git",
+    "fort-organisation": "git@github.com:FortifiElements/fort-organisation.git"
   }
 }
