@@ -39,6 +39,7 @@
     "fort-preferences": "git@github.com:FortifiElements/fort-preferences.git",
     "fort-nudge": "git@github.com:FortifiElements/fort-nudge.git",
     "fort-toolbar": "git@github.com:FortifiElements/fort-toolbar.git",
+    "fort-quick-actions": "git@github.com:FortifiElements/fort-quick-actions.git",
     "fort-organisation": "git@github.com:FortifiElements/fort-organisation.git"
   }
 }
