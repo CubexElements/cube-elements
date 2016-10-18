@@ -21,6 +21,7 @@
     "tests"
   ],
   "dependencies": {
+    "fort-time": "git@github.com:FortifiElements/fort-time.git",
     "fort-registry": "git@github.com:FortifiElements/fort-registry.git",
     "fort-behavior": "git@github.com:FortifiElements/fort-behavior.git",
     "fort-pagelet": "git@github.com:FortifiElements/fort-pagelet.git",
