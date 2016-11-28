@@ -21,6 +21,7 @@
     "tests"
   ],
   "dependencies": {
+    "fort-resource": "git@github.com:FortifiElements/fort-resource.git",
     "fort-time": "git@github.com:FortifiElements/fort-time.git",
     "fort-behavior": "git@github.com:FortifiElements/fort-behavior.git",
     "fort-pagelet": "git@github.com:FortifiElements/fort-pagelet.git",
@@ -35,5 +36,29 @@
     "fort-indexeddb-mirror": "git@github.com:FortifiElements/fort-indexeddb-mirror.git",
     "fort-preferences": "git@github.com:FortifiElements/fort-preferences.git",
     "fort-nudge": "git@github.com:FortifiElements/fort-nudge.git"
+  },
+  "resolutions": {
+    "iron-ajax": "2.0-preview",
+    "polymer": "2.0-preview",
+    "iron-icon": "2.0-preview",
+    "neon-animation": "2.0-preview",
+    "paper-styles": "2.0-preview",
+    "paper-item": "2.0-preview",
+    "paper-ripple": "2.0-preview",
+    "paper-input": "2.0-preview",
+    "iron-meta": "2.0-preview",
+    "iron-flex-layout": "2.0-preview",
+    "webcomponentsjs": "v1",
+    "iron-dropdown": "2.0-preview",
+    "iron-resizable-behavior": "2.0-preview",
+    "iron-selector": "2.0-preview",
+    "iron-behaviors": "2.0-preview",
+    "iron-autogrow-textarea": "2.0-preview",
+    "iron-a11y-keys-behavior": "2.0-preview",
+    "iron-input": "2.0-preview",
+    "iron-overlay-behavior": "2.0-preview",
+    "iron-validatable-behavior": "2.0-preview",
+    "iron-fit-behavior": "2.0-preview",
+    "iron-a11y-announcer": "2.0-preview"
   }
 }
