@@ -1,3 +1,3 @@
-# fort-elements
+# cube-elements
 
-The fortifi elements allow you to build fortifi platform apps
+The cube elements allow you to build cubex platform apps
